@@ -1,1 +1,1 @@
-# Learn-Seaborn
+# Learn Seaborn
